@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "commit" : "ts-node scripts/git.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuleymanDeveloper/jspack.git"
+  },
+  "keywords": [],
+  "author": "Suleyman <suleyman01acc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuleymanDeveloper/jspack/issues"
+  },
+  "homepage": "https://github.com/SuleymanDeveloper/jspack#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.31"
+  }
+}
